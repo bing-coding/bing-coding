@@ -8,8 +8,8 @@
 
 ## Projects
 
-- [ex-skill](https://github.com/bing-coding/ex-skill) — 赛博前任，一个围绕亲密关系与数字记忆的实验项目。
-- [cybertomb](https://github.com/bing-coding/cybertomb) — 一个赛博墓地，用网页保存记忆、告别和故事。
+- [ex-skill](https://github.com/bing-coding/ex-skill) — 赛博前任，由“同事.skill”灵感而来的skill。
+- [cybertomb](https://github.com/bing-coding/cybertomb) — 一个赛博墓地toy project，用网页保存记忆、告别和故事。
 - [voluntary-leaving](https://github.com/bing-coding/voluntary-leaving) — 一款名为《自愿离校》的网页解谜游戏。
   - 游戏链接：https://voluntary-leaving.pages.dev/
   - 现已上传到谜叶集网站：https://miyeji.cn/games/zi-yuan-li-xiao
