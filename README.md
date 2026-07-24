@@ -15,7 +15,8 @@
   - 现已上传到谜叶集网站：https://miyeji.cn/games/zi-yuan-li-xiao
   - 上线一个月，已经有3800+人次体验过啦，欢迎更多朋友们来试玩和提意见～
   - PS：在B站还有一个1.3万播放的游戏攻略哦）
-- [pindou_tool](https://github.com/bing-coding/pindou_tool) — 图片转拼豆图工具，可以把图片转换成拼豆图案。
+- [pindou_tool](https://github.com/bing-coding/pindou_tool) — 因为迷上了拼豆，所以做了一个图片转拼豆图的网页工具。
+  - 链接：https://pindou-tool-bz9.pages.dev/
 - 心理测评工坊【DOING】 — 暂时保密中……
 
 ## Now
