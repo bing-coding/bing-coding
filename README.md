@@ -1,16 +1,21 @@
 # Hi, I'm bing 👋
 
-我喜欢把一些有点怪、但有生命力的想法做成可以玩的产品和工具。
+这个账号用来把一些小idea做成可以玩的产品和工具，欢迎体验和反馈～
 
 - Currently building: interactive web experiments, AI-assisted tools, and small game-like experiences
-- Interested in: TypeScript, JavaScript, Python, Godot, product design, and narrative interaction
+- Interested in:  Python, Godot, product design, and narrative interaction
 - Working style: prototype fast, polish the feeling, keep the idea alive
 
 ## Projects
 
 - [ex-skill](https://github.com/bing-coding/ex-skill) — 赛博前任，一个围绕亲密关系与数字记忆的实验项目。
 - [cybertomb](https://github.com/bing-coding/cybertomb) — 一个赛博墓地，用网页保存记忆、告别和故事。
-- [voluntary-leaving](https://github.com/bing-coding/voluntary-leaving) — 自愿离校网页解谜游戏。
+- [voluntary-leaving](https://github.com/bing-coding/voluntary-leaving) — 一款名为《自愿离校》的网页解谜游戏。
+  - 游戏链接：https://voluntary-leaving.pages.dev/
+  - 现已上传到谜叶集网站：https://miyeji.cn/games/zi-yuan-li-xiao
+  - 上线一个月，已经有3800+人次体验过啦，欢迎更多朋友们来试玩和提意见～
+  - PS：在B站还有一个1.3万播放的游戏攻略哦）
+- 心理测评工坊【DOING】 — 暂时保密中……
 
 ## Now
 
